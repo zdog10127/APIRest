@@ -1,0 +1,6 @@
+@APIRest.Tarefa_HostAddress = http://localhost:5252
+
+GET {{APIRest.Tarefa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

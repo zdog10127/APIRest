@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APIRest.Tarefa.Domain\APIRest.Tarefa.Domain.csproj" />
+    <ProjectReference Include="..\APIRest.Tarefa.Infra\APIRest.Tarefa.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

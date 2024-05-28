@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aBjF7c5f1Su3qlJqCmsaqlQSK8BCdpGo3VP2IJNkzG0=",
+  "Source": "APIRest.Tarefa",
+  "BasePath": "_content/APIRest.Tarefa",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

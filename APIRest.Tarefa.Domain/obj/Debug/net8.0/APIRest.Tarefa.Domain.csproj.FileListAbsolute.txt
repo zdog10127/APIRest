@@ -1,0 +1,12 @@
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\bin\Debug\net8.0\APIRest.Tarefa.Domain.deps.json
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\bin\Debug\net8.0\APIRest.Tarefa.Domain.dll
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\bin\Debug\net8.0\APIRest.Tarefa.Domain.pdb
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\APIRest.Tarefa.Domain.csproj.AssemblyReference.cache
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\APIRest.Tarefa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\APIRest.Tarefa.Domain.AssemblyInfoInputs.cache
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\APIRest.Tarefa.Domain.AssemblyInfo.cs
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\APIRest.Tarefa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\APIRest.Tarefa.Domain.dll
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\refint\APIRest.Tarefa.Domain.dll
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\APIRest.Tarefa.Domain.pdb
+C:\Users\Zdog\source\repos\APIRest.Tarefa\APIRest.Tarefa.Domain\obj\Debug\net8.0\ref\APIRest.Tarefa.Domain.dll
